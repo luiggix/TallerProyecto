@@ -1,0 +1,7 @@
+# NBGRADER 
+nbg 
+
+# QUIZ 
+q*.ipynb 
+.ans/ 
+.nbgex
